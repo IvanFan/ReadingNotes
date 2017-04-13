@@ -21,4 +21,5 @@ Including:
 ## Current Progress
 
 - [x] 2017.04.11 start the repository
+- [ ] begin to read [daxueba-kali-linux-tutorial](https://wizardforcel.gitbooks.io/daxueba-kali-linux-tutorial/) 
 - [ ] begin to read Metasploit Penetration Testing Training 
