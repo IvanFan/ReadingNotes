@@ -53,4 +53,18 @@ I tested this command with two serve and only got response timeout
 __Tool: snmpcheck__
 
 ```
+snmpcheck -t xxx.xxx.xxx.xxx
 ```
+not working  
+only throw error no community name specified
+which is a snmp v2 specified issue
+
+### Scope scan
+
+__Tool: dmitry__
+```
+dmitry -wnpb ivanfan.net
+```
+
+Comments: it can return the domain service provider details and the port which is open
+
