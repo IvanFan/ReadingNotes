@@ -1,12 +1,12 @@
 # ReadingNotes
-keep learning, knowledge about big data storage, high concurrency, distribute sys, performance optimisation, security, AI and data analysis 
+keep learning, basic knowledge and  knowledge about big data storage, high concurrency, distribute sys, performance optimisation, security, AI and data analysis 
 
 ## About
 
 This repository is used for my personal reading notes.  
 As a developer, self-learning is really essential.  
-It contains my daily work and reading notes. 
-Also some thinking about technologies during reading.
+It contains my daily work and reading notes. Also some thinking about technologies during reading.  
+I will try to keep updating it everyday. 
 
 ## Plan
 
