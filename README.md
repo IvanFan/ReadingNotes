@@ -4,22 +4,19 @@ keep learning, knowledge about big data storage, high concurrency, distribute sy
 ## About
 
 This repository is used for my personal reading notes.  
-As a developer, self-learning really essential.  
-Let's do it!
+As a developer, self-learning is really essential.  
+It contains my daily work and reading notes. 
+Also some thinking about technologies during reading.
 
 ## Plan
 
 I will mainly focus on the popular technologies and advanced tech for web development.  
 Including:
+* Daily reading
+* Coding practices
 * Algorithm
 * Distributed system
 * High concurrency
 * Security
 * AI
 * Data analysis
-
-## Current Progress
-
-- [x] 2017.04.11 start the repository
-- [ ] begin to read [daxueba-kali-linux-tutorial](https://wizardforcel.gitbooks.io/daxueba-kali-linux-tutorial/) 
-- [ ] begin to read Metasploit Penetration Testing Training 
