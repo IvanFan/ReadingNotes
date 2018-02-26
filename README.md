@@ -20,3 +20,7 @@ Including:
 * Security
 * AI
 * Data analysis
+
+## Books
+
+[ ] Understanding the JVM: Advanced Features and Best Practices 2 Edition 2018.02.20 - present
