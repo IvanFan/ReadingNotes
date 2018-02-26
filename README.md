@@ -6,7 +6,6 @@ keep learning, basic knowledge and  knowledge about big data storage, high concu
 This repository is used for my personal reading notes.  
 As a developer, self-learning is really essential.  
 It contains my daily work and reading notes. Also some thinking about technologies during reading.  
-I will try to keep updating it everyday. 
 
 ## Plan
 
@@ -18,8 +17,8 @@ Including:
 * Distributed system
 * High concurrency
 * Security
-* AI
-* Data analysis
+* Machine Learning
+* Data Mining
 
 ## Books
 
