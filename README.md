@@ -22,4 +22,6 @@ Including:
 
 ## Books
 
-[ ] Understanding the JVM: Advanced Features and Best Practices 2 Edition 2018.02.20 - present
+- [x] Understanding the JVM: Advanced Features and Best Practices 2 Edition 2018.02.20 - 2018.03.01  
+
+- [ ] Programming Python 4th Edition 2018.03.01 - present 
