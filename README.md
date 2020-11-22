@@ -11,4 +11,4 @@ This repository is used for my personal reading notes.
 
 - [ ] Linux Kernel Development 2018.10.01 - present 
 
-- [ ] C++ primer 5 EDITION 2020/11/21 - present (relearn some details regarding cpp)
+- [ ] C++ primer 5 EDITION 2020/11/21 - present (relearn cpp11) Page 82

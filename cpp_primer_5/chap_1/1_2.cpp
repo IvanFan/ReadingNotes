@@ -97,6 +97,26 @@ r = &j; //  p->i
 *r =0; // i =0
 
 
+//const
+const int con = 512;
+// must init
+// by default const object only works in the current file
+// share with other file
+
+// file1.cpp
+extern const int bufsize = fcn();
+// file1.h
+extern const int bufsize;
+
+// const ref
+// when initing const ref, we can use any way of init. as far as the init value can be converted to the required type
+int i = 42;
+const int &r1 = i;
+const int &r2 = 42;
+const int &r3 = r1 * 2;
+
+//incorrect
+int &r4 = r1*2 // r4 is not a const ref
 
 
 
