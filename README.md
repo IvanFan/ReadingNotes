@@ -1,10 +1,9 @@
 # ReadingNotes
-keep learning
+keep learning & relearning
 
 ## About
 
 This repository is used for my personal reading notes.  
-It contains my reading notes. Also some ideas about technologies during reading.  
 
 ## Books
 
@@ -12,4 +11,4 @@ It contains my reading notes. Also some ideas about technologies during reading.
 
 - [ ] Linux Kernel Development 2018.10.01 - present 
 
-- [ ] C++ primer 5 EDITION 2020/11/21 - present
+- [ ] C++ primer 5 EDITION 2020/11/21 - present (relearn some details regarding cpp)
