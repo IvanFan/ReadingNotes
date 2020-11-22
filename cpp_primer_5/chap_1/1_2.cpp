@@ -116,8 +116,49 @@ const int &r2 = 42;
 const int &r3 = r1 * 2;
 
 //incorrect
-int &r4 = r1*2 // r4 is not a const ref
+int &r4 = r1*2; // r4 is not a const ref
 
+// pointer to const & const pointer
+
+//pointer to const
+const double pi = 3.14;
+const double *pter = &pi;
+double dval = 4.14;
+pter = &dval; // can be changed to point to another val
+
+//const pointer
+int errNum = 0;
+int *const curErr = &errNum; //curErr will always point to errNum
+// top level const and low level const
+
+// const expression
+// cpp 11 can use constexpr to declare it
+constexpr int mf = 20;
+
+//literal type
+// string class is not literal type
+
+// type alias
+typedef double wages;
+typedef wages base, *p;
+
+using SI = Sales_item;
+
+// cpp 11 auto
+
+auto item = va1+val2;
+// auto online type should be the same
+
+//incorrect
+auto su =0, pi = 3.14;
+
+// auto will ignore top level const so have to manually set it up
+const auto &j = 43;
+
+// cpp11 decltype
+
+decltype(fu()) a =x;
+decltype((v)) d; // reference
 
 
 
