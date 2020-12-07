@@ -11,4 +11,6 @@ This repository is used for my personal reading notes.
 
 - [ ] Linux Kernel Development 2018.10.01 - present 
 
-- [ ] C++ primer 5 EDITION 2020/11/21 - present (relearn cpp11) Page 426
+- [ ] C++ primer 5 EDITION 2020/11/21 - 2020/12/07 (relearn cpp11) Page 463
+
+- [ ] Linux server side multi-thread programming with muduo cpp lib  2020/12/07 - 2020/12/07
